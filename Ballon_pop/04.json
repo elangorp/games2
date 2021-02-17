@@ -1,0 +1,51 @@
+[
+  {
+    "activity_title": "4 - Ballon POP without images (Remove X2 Score)",    
+    "data": [
+      {
+       "keyword":"Sonic",
+       "keyword_image":"",
+       "definition":"A blue ball",
+       "definition-image":""       
+      },
+      {
+       "keyword":"Knuckles",
+       "keyword_image":"",
+       "definition":"a echidna",
+       "definition-image":""       
+      },
+      {
+       "keyword":"Amy",
+       "keyword_image":"",
+       "definition":"likes sonic",
+       "definition-image":""       
+      },
+      {
+       "keyword":"eggman",
+       "keyword_image":"",
+       "definition":"sonic's enemy",
+       "definition-image":""       
+      },
+      {
+       "keyword":"Tails",
+       "keyword_image":"",
+       "definition":"sonic's best friend",
+       "definition-image":""       
+      } 
+    ],
+    "options": [
+      {
+        "timer_type": "count-up",
+        "timer_minutes": 10,
+        "timer_seconds": 0,       
+        "speed": 5,
+        "levels": 20,
+        "bonuses_extra_time": false,
+        "bonuses_points": false,
+        "bonuses_x2_score": true,
+        "show_answer_at_end_of_game":true,
+        "set_as_default_for_template":false
+      }
+    ]
+  }
+]
