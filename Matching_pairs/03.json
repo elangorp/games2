@@ -1,0 +1,36 @@
+[
+  {
+    "activity_title": "3 - Matching (Show Eliminated Titles)",
+    "data": [
+      {
+        "item_1": "Boy",
+        "item_1_image": "https://via.placeholder.com/80x80",
+        "item_2": "Little Boy",
+        "item_2_image": "https://via.placeholder.com/80x80"        
+      },
+      {
+        "item_1": "Male",
+        "item_1_image": "https://via.placeholder.com/80x80",
+        "item_2": "Men",
+        "item_2_image": "https://via.placeholder.com/80x80"        
+      },
+      {
+        "item_1": "Girl",
+        "item_1_image": "https://via.placeholder.com/80x80",
+        "item_2": "Little Girl",
+        "item_2_image": "https://via.placeholder.com/80x80"        
+      } 
+    ],
+    "options": [
+      {
+        "timer_type": "count-up",
+        "timer_minutes": 10,
+        "timer_seconds": 0,
+        "show_numbers": false,
+        "show_eliminated": true,
+        "show_answer_at_end_of_game":true,
+        "set_as_default_for_template":false      
+      }
+    ]
+  }
+]

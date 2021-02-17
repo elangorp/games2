@@ -1,0 +1,41 @@
+[
+  {
+    "activity_title": "1 - Rand Order with images",
+    "instruction_title": "Place the lowest first",    
+    "data": [
+      {
+        "item_1": "Fish",
+        "item_1_image": "https://via.placeholder.com/80x80"         
+      },
+      {
+        "item_1": "Boar",
+        "item_1_image": "https://via.placeholder.com/80x80"       
+      },
+      {
+        "item_1": "turtle",
+        "item_1_image": "https://via.placeholder.com/80x80"            
+      },
+      {
+        "item_1": "reptile",
+        "item_1_image": "https://via.placeholder.com/80x80"            
+      },
+      {
+        "item_1": "insects",
+        "item_1_image": "https://via.placeholder.com/80x80"            
+      },
+      {
+        "item_1": "human",
+        "item_1_image": "https://via.placeholder.com/80x80"            
+      }
+    ],
+    "options": [
+      {
+        "timer_type": "count-up",
+        "timer_minutes": 10,
+        "timer_seconds": 0,       
+        "show_answer_at_end_of_game":true,
+        "set_as_default_for_template":false
+      }
+    ]
+  }
+]

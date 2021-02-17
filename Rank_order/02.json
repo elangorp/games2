@@ -1,0 +1,40 @@
+[
+  {
+    "activity_title": "1 - Rand Order without images",
+    "data": [
+       {
+        "item_1": "Fish",
+        "item_1_image": ""         
+      },
+      {
+        "item_1": "Boar",
+        "item_1_image": ""       
+      },
+      {
+        "item_1": "turtle",
+        "item_1_image": ""            
+      },
+      {
+        "item_1": "reptile",
+        "item_1_image": ""            
+      },
+      {
+        "item_1": "insects",
+        "item_1_image": ""            
+      },
+      {
+        "item_1": "human",
+        "item_1_image": ""            
+      }
+    ],
+    "options": [
+      {
+        "timer_type": "count-up",
+        "timer_minutes": 10,
+        "timer_seconds": 0,       
+        "show_answer_at_end_of_game":true,
+        "set_as_default_for_template":false
+      }
+    ]
+  }
+]

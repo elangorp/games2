@@ -1,0 +1,35 @@
+[
+   {
+      "activity_title":"1 - Unjumble (marking - EVERY WORD)",
+      "data":[
+         {
+            "keyword":"where are you"
+         },
+         {
+           "keyword":"You are my friend"
+         },
+         {
+            "keyword":"You are in the box."	
+         },
+		  {
+           "keyword":"I need this"
+         },
+         {
+            "keyword":"That was you!"	
+         }
+      ],
+      "options":[
+         {
+            "timer_type":"count-down",
+            "timer_minutes":10,
+            "timer_seconds":0,
+		    	"marking":"EVERY WORD",
+            "autoslide":true,
+			   "alignment":"LEFT",
+			   "shuffle_item_order":false,
+            "show_answer_at_end_of_game":true,
+            "set_as_default_for_template":false
+         }
+      ]
+   }
+]

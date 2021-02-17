@@ -1,0 +1,36 @@
+[
+  {
+    "activity_title": "1 - Matching Pairs of identical items",
+    "data": [
+      {
+        "item_1": "Boy",
+        "item_1_image": "https://via.placeholder.com/80x80",
+        "item_2": "",
+        "item_2_image": ""        
+      },
+      {
+        "item_1": "Male",
+        "item_1_image": "https://via.placeholder.com/80x80",
+        "item_2": "",
+        "item_2_image": ""        
+      },
+      {
+        "item_1": "Girl",
+        "item_1_image": "https://via.placeholder.com/80x80",
+        "item_2": "",
+        "item_2_image": ""        
+      } 
+    ],
+    "options": [
+      {
+        "timer_type": "count-up",
+        "timer_minutes": 10,
+        "timer_seconds": 0,
+        "show_numbers": true,
+        "show_eliminated": false,
+        "show_answer_at_end_of_game":true,
+        "set_as_default_for_template":false
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "activity_title": "1 - Ballon POP with images",    
+    "data": [
+      {
+       "keyword":"Sonic",
+       "keyword_image":"https://via.placeholder.com/80x80",
+       "definition":"A blue ball",
+       "definition-image":"https://via.placeholder.com/80x80"       
+      },
+      {
+       "keyword":"Knuckles",
+       "keyword_image":"https://via.placeholder.com/80x80",
+       "definition":"a echidna",
+       "definition-image":"https://via.placeholder.com/80x80"       
+      },
+      {
+       "keyword":"Amy",
+       "keyword_image":"https://via.placeholder.com/80x80",
+       "definition":"likes sonic",
+       "definition-image":"https://via.placeholder.com/80x80"       
+      },
+      {
+       "keyword":"eggman",
+       "keyword_image":"https://via.placeholder.com/80x80",
+       "definition":"sonic's enemy",
+       "definition-image":"https://via.placeholder.com/80x80"       
+      },
+      {
+       "keyword":"Tails",
+       "keyword_image":"https://via.placeholder.com/80x80",
+       "definition":"sonic's best friend",
+       "definition-image":"https://via.placeholder.com/80x80"       
+      } 
+    ],
+    "options": [
+      {
+        "timer_type": "count-up",
+        "timer_minutes": 10,
+        "timer_seconds": 0,       
+        "speed": 5,
+        "levels": 20,
+        "bonuses_extra_time": true,
+        "bonuses_points": true,
+        "bonuses_x2_score": true,
+        "show_answer_at_end_of_game":true,
+        "set_as_default_for_template":false
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "activity_title": "Matching pairs high score info  (score list - top 3)",
+    "data": [
+      {
+        "Name": "User 1",
+        "score": 10,
+        "time_taken": "0:01:01"
+      },
+      {
+        "Name": "User 2",
+        "score": 10,
+        "time_taken": "0:01:02"
+      },
+      {
+        "Name": "User 3",
+        "score": 10,
+        "time_taken": "0:01:03"
+      } 
+    ]
+  }
+]

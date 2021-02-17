@@ -1,0 +1,35 @@
+[
+   {
+      "activity_title":"3 - Unjumble தமிழ்  (marking - ON SUBMIT)",
+      "data":[
+         {
+            "keyword":"அதிர்ஷ்டம் என் பக்கம்"
+         },
+         {
+           "keyword":"மயில் தோகை விரித்து ஆடுகிறது "
+         },
+         {
+            "keyword":"அறம் செய்ய விரும்பு "	
+         },
+		  {
+           "keyword":"யாதும் ஊரே யாவரும் கேளிர் "
+         },
+         {
+            "keyword":"பூமியைப்போல் பொறுமை வேண்டும் "	
+         }
+      ],
+      "options":[
+         {
+            "timer_type":"count-down",
+            "timer_minutes":10,
+            "timer_seconds":0,
+			   "marking":"ON SUBMIT",
+            "autoslide":true,
+		    	"alignment":"LEFT",
+			   "shuffle_item_order":false,
+            "show_answer_at_end_of_game":true,
+            "set_as_default_for_template":false
+         }
+      ]
+   }
+]
